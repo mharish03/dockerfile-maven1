@@ -43,7 +43,7 @@ This plugin requires Java 7 or later and Apache Maven 3 or later (dockerfile-mav
 Maven >= 3, and for other cases, Maven >= 3.5.2). To run the integration tests or to use the plugin in practice, a working
 Docker set-up is needed.
 
-## Example
+### Example
 
 For more examples, see the [integration test](./plugin/src/it) directory.
 
